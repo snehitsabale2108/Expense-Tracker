@@ -48,6 +48,11 @@ This project helps you learn:
 
 ---
 
+## Demonstration Video
+(https://www.linkedin.com/posts/snehit-sabale-09916b2a3_python-pythonproject-expensetracker-ugcPost-7458524794066468864-mcxy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEksLLUBohRf2OnimU1SGsE97VY9fP3oDcc)
+
+---
+
 ## Contributing
 
 Contributions are welcome! Feel free to fork this repository and improve the project.
